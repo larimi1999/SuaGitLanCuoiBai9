@@ -11,4 +11,6 @@ try{
 	console.log('Error while cat eating a dog');
 }
 
+
+
 console.log(cat);
